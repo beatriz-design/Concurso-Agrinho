@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    font-family: sans-serif;
+    background-color: rgba(243, 250, 243, 0.959); 
+    background-size: cover;  
+    background-repeat: no-repeat;  
+    background-position: center; 
+    background-attachment: fixed; 
+    background-image: url("imagens/ReimagineAgro_06_10_Anos_Marcos_Fava-1024x395.jpg");
+    text-align: center;
+}
+
+h1 {
+    background-color: rgba(243, 250, 243, 0.74);
+    color: rgb(11, 12, 11);
+    padding: 30px;
+    padding-top: 15px;
+    margin-top: auto;
+}
+
+p {
+    background-color: rgba(255, 255, 255, 0.712);
+    padding-inline: 300px;
+    padding: 20px 0;
+    margin-inline: 30%;
+    font-size: 20px;
+    font-style: italic;
+    color: #080807;
+
+    
+}
+img{
+    width: 500px;
+    height: 500px;
+   
+}
+
+footer.rodape {
+    padding: 13px 0px;
+    text-align: center;
+    background: #050505;
+    margin-top: 20px;
+}
